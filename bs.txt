@@ -1,3 +1,5 @@
 Master file created as bs.txt
 First edit in bs.txt
 Second edit in bs.txt
+
+3rd changes
